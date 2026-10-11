@@ -1,0 +1,1 @@
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=aljus7&langs_count=7&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=aljus7&langs_count=7&theme=tokyonight)
